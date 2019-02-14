@@ -1,0 +1,47 @@
+body {
+    background-image: url(../images/light-grey-terrazzo.png)
+}
+
+.fa-code {
+    font-size: 70px;
+    padding-top: 20px;
+}
+
+.name-tag {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.email-link {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.fa-linkedin {
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.fa-github-square {
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.fa-newspaper {
+    font-size: 50px;
+padding-top: 20px;
+}
+
+.about-me {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+.carousel-header {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    padding-top: 5px;
+}
